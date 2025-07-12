@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/jaydenha-group/yt-dlp-player.git"
+    "url": "git+https://github.com/JaydenTheNardo/YT-DLP-Player.git"
   },
   "keywords": [],
   "author": "Jayden Ha",
   "license": "GPLV3",
   "bugs": {
-    "url": "https://gitlab.com/jaydenha-group/yt-dlp-player/issues"
+    "url": "https://github.com/JaydenTheNardo/YT-DLP-Player/issues"
   },
-  "homepage": "https://gitlab.com/jaydenha-group/yt-dlp-player#readme"
+  "homepage": "https://github.com/JaydenTheNardo/YT-DLP-Player#readme"
 }
