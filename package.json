@@ -1,0 +1,20 @@
+{
+  "name": "yt-dlp-player",
+  "version": "1.0.0",
+  "description": "youtube downloader",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/jaydenha-group/yt-dlp-player.git"
+  },
+  "keywords": [],
+  "author": "Jayden Ha",
+  "license": "GPLV3",
+  "bugs": {
+    "url": "https://gitlab.com/jaydenha-group/yt-dlp-player/issues"
+  },
+  "homepage": "https://gitlab.com/jaydenha-group/yt-dlp-player#readme"
+}
